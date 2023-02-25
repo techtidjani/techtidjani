@@ -9,6 +9,7 @@ I am a MERN stack developer with experience building web applications using Mong
 - MERN stack development (MongoDB, Express, React, Node.js)
 - JavaScript
 - HTML/CSS
+- TypeScript
 - Git/GitHub
 - C#
 - Python
